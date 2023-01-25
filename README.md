@@ -1,5 +1,5 @@
 # 💫About Me :
-I am currently working on Blockchain and Smart Contract, Web3, React.
+I am currently working on Web Application, Web3.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-jin-814892147/) 
